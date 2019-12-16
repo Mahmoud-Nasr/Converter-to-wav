@@ -1,0 +1,7 @@
+C:\Users\mahmoud\Documents\Visual Studio 2015\Projects\AudioConvert\WavConverter\bin\Debug\WavConverter.dll
+C:\Users\mahmoud\Documents\Visual Studio 2015\Projects\AudioConvert\WavConverter\bin\Debug\WavConverter.pdb
+C:\Users\mahmoud\Documents\Visual Studio 2015\Projects\AudioConvert\WavConverter\bin\Debug\NAudio.dll
+C:\Users\mahmoud\Documents\Visual Studio 2015\Projects\AudioConvert\WavConverter\bin\Debug\NAudio.xml
+C:\Users\mahmoud\Documents\Visual Studio 2015\Projects\AudioConvert\WavConverter\obj\Debug\WavConverter.csprojResolveAssemblyReference.cache
+C:\Users\mahmoud\Documents\Visual Studio 2015\Projects\AudioConvert\WavConverter\obj\Debug\WavConverter.dll
+C:\Users\mahmoud\Documents\Visual Studio 2015\Projects\AudioConvert\WavConverter\obj\Debug\WavConverter.pdb
